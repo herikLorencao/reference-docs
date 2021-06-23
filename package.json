@@ -1,0 +1,19 @@
+{
+  "name": "reference-docs",
+  "version": "0.0.1",
+  "description": "Documentação de referência para estudos",
+  "main": "index.js",
+  "authors": {
+    "name": "Herik dos Santos Lorenção",
+    "email": "heriksantoslorencao@gmail.com"
+  },
+  "repository": "reference-docs/reference-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
