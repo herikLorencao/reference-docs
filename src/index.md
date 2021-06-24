@@ -1,15 +1,8 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://i.ibb.co/XC9MJjT/dev-icon.png
 tagline: Documentação de referência para estudos
 actionText: Veja mais →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by Herik dos Santos Lorenção with ❤️
+actionLink: /tecnologias/
+footer: Desenvolvido por Herik dos Santos Lorenção
 ---
