@@ -37,7 +37,7 @@ module.exports = {
             ],
             "/vue3/": [
                 {
-                    title: "Vue 3",
+                    title: "Inicio",
                     collapsable: true,
                     children: ["", "composition-api"],
                 },
